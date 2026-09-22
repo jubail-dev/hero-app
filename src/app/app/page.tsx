@@ -1,7 +1,7 @@
+
 import { TrendingAppsType } from "@/Types/trendingAppType";
 import React from "react";
-import Link from "next/link";
-import AppsGrid from "../shared/AppsGrid";
+import AppsCard from "../components/shared/AppsCard";
 
 const getTrendingApps = async (): Promise<TrendingAppsType[]> => {
   try {
@@ -17,7 +17,7 @@ const getTrendingApps = async (): Promise<TrendingAppsType[]> => {
   }
 };
 
-const TrendingApps = async () => {
+const AppPage = async () => {
   const apps: TrendingAppsType[] = await getTrendingApps();
 
   return (
@@ -30,7 +30,7 @@ const TrendingApps = async () => {
           </p>
 
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900">
-            Trending Apps
+            All Apps
           </h1>
 
           <p className="text-gray-500 mt-3 text-sm md:text-base">
@@ -39,10 +39,15 @@ const TrendingApps = async () => {
         </div>
 
         {/* Apps Grid */}
-        <AppsGrid apps={apps} />
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 md:gap-6">
+          {apps.map((app) => (
+            <AppsCard key={app.id} apps={app} />
+          ))}
+        </div>
+
       </div>
     </section>
   );
 };
 
-export default TrendingApps;
+export default AppPage;

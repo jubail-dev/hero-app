@@ -33,7 +33,7 @@ const Nav = () => {
           {/* Header Button */}
 
           <div className="bg-[#9F62F2] py-3 px-6 font-bold text-white rounded-2xl">
-            <Link href="/github">
+            <Link href="https://github.com/" target="blank">
               <button>
                 <span>
                   <FaGithub className="inline-block" /> Contribute

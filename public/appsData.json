@@ -1,182 +1,184 @@
+
 [
   {
     "id": 1,
     "name": "TaskFlow",
     "developer": "Flow Labs",
     "category": "Productivity",
-    "description": "Organize your tasks, projects, and daily goals in one simple workspace.",
+    "description": "A simple task management app to organize your daily work and stay productive.",
     "rating": 4.8,
     "downloads": "12.5M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/taskflow.png"
+    "image": "https://play-lh.googleusercontent.com/tSoGwsCZbuPktt6-EWmxWKBc9mkaaPNqQOLUWDIFMgZdOX43REZawYY8d0lHMvW-9SZmjO4QTQ3yx_ETyD-iNQ=w240-h480"
   },
   {
     "id": 2,
     "name": "FitTrack",
-    "developer": "HealthTech",
-    "category": "Health & Fitness",
-    "description": "Track your workouts, steps, calories, and fitness progress every day.",
+    "developer": "Health Labs",
+    "category": "Health",
+    "description": "Track your workouts, steps, calories and daily fitness goals in one place.",
     "rating": 4.7,
     "downloads": "9.8M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/fittrack.png"
+    "image": "https://play-lh.googleusercontent.com/C_8LMSK7qbDVAFpZm84AkrKHgDKG2sZjRblgHqgBagI_80_jg2QhCTyHxCFMZyAwUZJ8YsFA6U3e4huaXcv4=w240-h480"
   },
   {
     "id": 3,
     "name": "NoteNest",
-    "developer": "Bright Apps",
-    "category": "Education",
-    "description": "Create notes, organize study materials, and keep your learning journey on track.",
-    "rating": 4.9,
-    "downloads": "8.4M",
+    "developer": "Note Labs",
+    "category": "Productivity",
+    "description": "Create, organize and manage your personal notes quickly and easily.",
+    "rating": 4.6,
+    "downloads": "8.2M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/notenest.png"
+    "image": "https://play-lh.googleusercontent.com/VXkWi867KP9WOpdpVPYJrzIg2rBQwbKJCE3SKfZPUlYAnwXAOQDGdaU2TsCGB6DEOaY=w240-h480"
   },
   {
     "id": 4,
     "name": "BudgetBee",
-    "developer": "MoneyWorks",
+    "developer": "Finance Labs",
     "category": "Finance",
-    "description": "Manage your expenses, create budgets, and understand your spending habits.",
-    "rating": 4.6,
-    "downloads": "7.2M",
+    "description": "Manage your expenses, savings and monthly budget with an easy-to-use interface.",
+    "rating": 4.8,
+    "downloads": "7.5M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/budgetbee.png"
+    "image": "https://play-lh.googleusercontent.com/G4JnJMxaSsWHGJ435wNnqKShw1jkgZF9jRKuGWFlaxLXXx_mBqPZUAbzpKDiaRJhgO4tQx6FdML-2YORa05ZOVg=w240-h480"
   },
   {
     "id": 5,
     "name": "PhotoSpark",
-    "developer": "Pixel Studio",
+    "developer": "Spark Studio",
     "category": "Photography",
-    "description": "Edit your photos with creative filters, effects, and easy editing tools.",
-    "rating": 4.8,
-    "downloads": "15.1M",
-    "price": 2.99,
+    "description": "Edit your photos with creative filters, effects and simple editing tools.",
+    "rating": 4.5,
+    "downloads": "15.3M",
+    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/photospark.png"
+    "image": "https://play-lh.googleusercontent.com/UOw-H9uskKmjuQR_x-IKp8XWuepbIODcNeY0a3Q6u14h3QTq2Z4EbXMaAVoAh_YUQ2qcVNHTdeiPIPdJLAz7MA=w240-h480"
   },
   {
     "id": 6,
     "name": "Learnly",
-    "developer": "EduSpace",
+    "developer": "EduTech",
     "category": "Education",
-    "description": "Learn new skills through short lessons, quizzes, and interactive courses.",
+    "description": "Learn new skills through interactive lessons, courses and educational content.",
     "rating": 4.9,
-    "downloads": "6.7M",
+    "downloads": "10.7M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/learnly.png"
+    "image": "https://play-lh.googleusercontent.com/uwknNwb7lsOQW6fa5e_0DGJrjaGcM0HtDTX0SnNMCnnCDHD4ym5KlEkELmxuOiNyzWqiXd30f6DrM2Mhn4v0=w240-h480"
   },
   {
     "id": 7,
     "name": "TravelMate",
-    "developer": "TripTech",
+    "developer": "Travel Labs",
     "category": "Travel",
-    "description": "Plan trips, discover destinations, and organize your travel itinerary.",
+    "description": "Plan trips, discover destinations and organize your complete travel itinerary.",
     "rating": 4.7,
-    "downloads": "5.9M",
+    "downloads": "6.4M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/travelmate.png"
+    "image": "https://play-lh.googleusercontent.com/n5oSUWTalETQFB_D5tAwIoSscAbDRQ86B96nv3pHEYz0gNIu-S1qssGIwiwm3Dw0rRm-nc1OVESukMQv4ul9pA=w240-h480"
   },
   {
     "id": 8,
     "name": "RecipeBox",
-    "developer": "Foodie Labs",
-    "category": "Food & Cooking",
-    "description": "Discover delicious recipes and save your favorite meals in one place.",
-    "rating": 4.8,
-    "downloads": "4.5M",
+    "developer": "Food Studio",
+    "category": "Food",
+    "description": "Discover delicious recipes, save your favorite meals and plan your cooking.",
+    "rating": 4.6,
+    "downloads": "5.9M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/recipebox.png"
+    "image": "https://play-lh.googleusercontent.com/0j-5WT8PG7ZknAP_Yh0T4DpkbgitflLqqMqXtNlQn14f1Tp_db0PGh-EMIkBqSzpe-1gECie_f1QubpHpNhoqQ=w240-h480"
   },
   {
     "id": 9,
     "name": "FocusFlow",
-    "developer": "MindWorks",
+    "developer": "Focus Labs",
     "category": "Productivity",
-    "description": "Improve your concentration with focus sessions, timers, and productivity tools.",
-    "rating": 4.6,
-    "downloads": "3.8M",
+    "description": "Improve your concentration with smart focus sessions and productivity tools.",
+    "rating": 4.8,
+    "downloads": "4.8M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/focusflow.png"
+    "image": "https://play-lh.googleusercontent.com/RoO09ltS7nGbTJ9MVhQHWVxLh-DfVhn9rXByg-kVS4qws1BhVgbPMNhgM9emO83t9bmpa7jt15qgNHXyjX2BgQ=w240-h480"
   },
   {
     "id": 10,
     "name": "MusicWave",
-    "developer": "Sound Labs",
+    "developer": "Wave Music",
     "category": "Music",
-    "description": "Discover new music, create playlists, and enjoy your favorite songs.",
+    "description": "Listen to music, discover new artists and create personalized playlists.",
     "rating": 4.7,
-    "downloads": "18.3M",
-    "price": 4.99,
+    "downloads": "20.1M",
+    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/musicwave.png"
+    "image": "https://play-lh.googleusercontent.com/iavGelXphjW2wL352bEc5eeFLG0ic5BwQqv-N0x6OAHDTC9CZunt113IY-sj0T_a2O8UBx2z4vzTwuLTdZMX=w240-h480"
   },
   {
     "id": 11,
     "name": "QuickScan",
-    "developer": "SmartTools",
-    "category": "Utilities",
-    "description": "Scan documents, receipts, and important files directly from your phone.",
+    "developer": "Smart Tools",
+    "category": "Tools",
+    "description": "Quickly scan documents, QR codes and important files from your phone.",
     "rating": 4.5,
-    "downloads": "5.1M",
+    "downloads": "11.2M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/quickscan.png"
+    "image": "https://play-lh.googleusercontent.com/8MkoE_Bfa5BE95OcR_EYRflAvnREXEQJK6XeXnc9D-vt9V_uk0oKaZBlcJ5DZbUrDfeU36U19_x0fM5QxGmVBA=w240-h480"
   },
   {
     "id": 12,
     "name": "ChatLoop",
-    "developer": "Connect Labs",
-    "category": "Communication",
-    "description": "Stay connected with friends and communities through fast and simple messaging.",
-    "rating": 4.8,
-    "downloads": "21.6M",
+    "developer": "Loop Labs",
+    "category": "Social",
+    "description": "Connect with friends and communicate through simple and fast messaging.",
+    "rating": 4.4,
+    "downloads": "18.6M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/chatloop.png"
+    "image": "https://play-lh.googleusercontent.com/GTuCVNgM3Ax-iPQfUBdpNK19VJmI8x0l-bHcV2R4W2LQzkGIUpj0oz5tqLmSwlMwnw7Xp47Wx1OZq-NpFS2ig7A=w240-h480"
   },
   {
     "id": 13,
     "name": "MindSpace",
-    "developer": "CalmTech",
+    "developer": "Mind Labs",
     "category": "Lifestyle",
-    "description": "Relax, meditate, and build healthier daily habits with guided sessions.",
-    "rating": 4.7,
-    "downloads": "4.2M",
-    "price": 1.99,
+    "description": "Relax, meditate and build healthy daily habits with guided sessions.",
+    "rating": 4.8,
+    "downloads": "7.1M",
+    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/mindspace.png"
+    "image": "https://play-lh.googleusercontent.com/WQhHPyXC6w0N06KjZevOVOY0OzSY9HRJ1DP_K1SN-kVZRDkYe7aITMOCjjeU_ohtdjVzjkLiUnumhmZZNMdc=w240-h480"
   },
   {
     "id": 14,
     "name": "CodeBuddy",
-    "developer": "DevStudio",
-    "category": "Developer Tools",
-    "description": "Practice programming, explore coding challenges, and improve your development skills.",
+    "developer": "Dev Labs",
+    "category": "Development",
+    "description": "Practice programming concepts and improve your coding skills with interactive exercises.",
     "rating": 4.9,
-    "downloads": "2.9M",
+    "downloads": "3.7M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/codebuddy.png"
+    "image": "https://play-lh.googleusercontent.com/_V0jJ5ZLh_rbUy0ASDVcz-JM1TOQhf_wxxY3hgtZKlHZRrP06t0s1VO2EnOpV0c1rUurNTE7yLE8u_m1A-CK1EM=w240-h480"
   },
   {
     "id": 15,
     "name": "GameZone",
-    "developer": "PlayWorks",
-    "category": "Games",
-    "description": "Discover exciting games, compete with friends, and enjoy endless entertainment.",
-    "rating": 4.8,
+    "developer": "Game Studio",
+    "category": "Gaming",
+    "description": "Discover and play fun games anytime and enjoy an exciting gaming experience.",
+    "rating": 4.6,
     "downloads": "25.4M",
     "price": 0,
     "platform": "Android & iOS",
-    "image": "https://i.ibb.co.com/placeholder/gamezone.png"
+    "image": "https://play-lh.googleusercontent.com/wBo__88ChG7plVjbbpbgrLMx0pqw6tqi1LCRqDihC_1O8vfmDNsXEnG-90kFA4HZuwwV7BA-88k1byqixJ6JCg=w240-h480"
   }
 ]
+

@@ -1,3 +1,4 @@
+import InstalledButton from "@/app/components/app/InstalledButton";
 import { getTrendingApps } from "@/lib/app";
 import { TrendingAppsType } from "@/Types/trendingAppType";
 import Image from "next/image";
@@ -127,10 +128,7 @@ const AppDetailPage = async ({
                 </div>
 
                 {/* Install Button */}
-                <button className="inline-flex items-center justify-center gap-3 bg-[#9F62F2] hover:bg-[#8b4de5] text-white px-8 py-4 rounded-xl font-bold text-lg shadow-lg shadow-purple-200 hover:scale-105 transition duration-300">
-                  <FaDownload />
-                  Install App
-                </button>
+                    <InstalledButton app={app}></InstalledButton>
 
               </div>
             </div>

@@ -28,14 +28,14 @@ const Banner = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 pt-2">
             
-            <Link href="https://play.google.com/store/games?device=windows">
+            <Link href="https://play.google.com/store/games?device=windows" target="blank">
               
               <button className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-black text-white font-medium shadow-lg hover:scale-105 transition duration-300">
                 
                 <IoLogoGooglePlaystore size={22} /> Play Store
               </button>
             </Link>
-            <Link href="">
+            <Link href="/app" target="blank">
               
               <button className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-[#9F62F2] text-white font-medium shadow-lg shadow-purple-200 hover:scale-105 hover:bg-[#8b4de5] transition duration-300">
                 

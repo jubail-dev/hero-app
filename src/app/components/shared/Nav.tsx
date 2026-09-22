@@ -1,10 +1,14 @@
+"use client";
+
 import Image from "next/image";
-import React from "react";
+import React, { useState } from "react";
 import Logo from "@/assets/logo.png";
 import Link from "next/link";
-import { FaGithub, FaBars } from "react-icons/fa";
+import { FaGithub, FaBars, FaTimes } from "react-icons/fa";
 
 const Nav = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
   return (
     <nav className="shadow py-4 md:py-6">
       <div className="container mx-auto px-4">
@@ -31,7 +35,7 @@ const Nav = () => {
             </ul>
           </div>
 
-          {/* Desktop Header Button */}
+          {/* Desktop Contribute Button */}
           <div className="hidden md:block bg-[#9F62F2] py-3 px-6 font-bold text-white rounded-2xl">
             <Link href="https://github.com/" target="_blank">
               <span>
@@ -41,11 +45,51 @@ const Nav = () => {
             </Link>
           </div>
 
-          {/* Mobile Menu Button */}
-          <button className="md:hidden text-2xl text-black">
-            <FaBars />
+          {/* Mobile Hamburger */}
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="md:hidden text-2xl text-black"
+          >
+            {isOpen ? <FaTimes /> : <FaBars />}
           </button>
         </div>
+
+        {/* Mobile Menu */}
+        {isOpen && (
+          <div className="md:hidden mt-5 border-t pt-5">
+            <ul className="flex flex-col items-center gap-5 font-bold text-black">
+              <li>
+                <Link href="/" onClick={() => setIsOpen(false)}>
+                  Home
+                </Link>
+              </li>
+
+              <li>
+                <Link href="/app" onClick={() => setIsOpen(false)}>
+                  App
+                </Link>
+              </li>
+
+              <li>
+                <Link href="/installation" onClick={() => setIsOpen(false)}>
+                  Installation
+                </Link>
+              </li>
+
+              <li>
+                <Link
+                  href="https://github.com/"
+                  target="_blank"
+                  onClick={() => setIsOpen(false)}
+                  className="bg-[#9F62F2] text-white px-6 py-3 rounded-2xl flex items-center gap-2"
+                >
+                  <FaGithub />
+                  Contribute
+                </Link>
+              </li>
+            </ul>
+          </div>
+        )}
       </div>
     </nav>
   );

@@ -47,7 +47,7 @@ const AppsCard = ({ apps }: AppsCardProps) => {
 
       {/* View Details Button */}
       <Link
-        href={`/apps/${apps.id}`}
+        href={`/app/${apps.id}`}
         className="block text-center mt-5 w-full bg-purple-600 hover:bg-purple-700 text-white font-semibold py-2.5 rounded-xl transition duration-300"
       >
         View Details

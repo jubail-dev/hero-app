@@ -35,6 +35,10 @@ const Nav = () => {
               <li>
                 <Link href="/installation">{installedApps.length > 0 ? `Installed (${installedApps.length})` : "Installation"}</Link>
               </li>
+
+              <li>
+                <Link href="/404">404 Zone</Link>
+              </li>
             </ul>
           </div>
 

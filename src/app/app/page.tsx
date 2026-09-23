@@ -8,7 +8,7 @@ const AppPage = async () => {
   const apps: TrendingAppsType[] = await getTrendingApps();
 
   return (
-    <section className="bg-gray-50 py-16 md:py-20">
+    <section className="bg-gray-50 py-25 md:py-30">
       <div className="container mx-auto px-4">
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-10 md:mb-12">

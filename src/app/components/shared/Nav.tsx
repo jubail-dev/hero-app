@@ -77,16 +77,16 @@ const Nav = () => {
                 </Link>
               </li>
 
-              <li>
-                <Link href="/404" onClick={() => setIsOpen(false)}>
-                  404 Zone
-                </Link>
-              </li>
-
 
               <li>
                 <Link href="/installation" onClick={() => setIsOpen(false)}>
                   {installedApps.length > 0 ? `Installed (${installedApps.length})` : "Installation"}
+                </Link>
+              </li>
+
+              <li>
+                <Link href="/404" onClick={() => setIsOpen(false)}>
+                  404 Zone
                 </Link>
               </li>
 

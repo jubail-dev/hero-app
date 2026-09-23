@@ -1,16 +1,19 @@
 "use client";
 
 import Image from "next/image";
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import Logo from "@/assets/logo.png";
 import Link from "next/link";
 import { FaGithub, FaBars, FaTimes } from "react-icons/fa";
+import { AppContext } from "@/context/AppProvider";
 
 const Nav = () => {
   const [isOpen, setIsOpen] = useState(false);
 
+  const {installedApps} = useContext(AppContext)
+
   return (
-    <nav className="shadow py-4 md:py-6">
+    <nav className="fixed top-0 left-0 w-full z-50 bg-white shadow py-4 md:py-6">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           {/* Logo Area */}
@@ -30,7 +33,7 @@ const Nav = () => {
               </li>
 
               <li>
-                <Link href="/installation">Installation</Link>
+                <Link href="/installation">{installedApps.length > 0 ? `Installed (${installedApps.length})` : "Installation"}</Link>
               </li>
             </ul>
           </div>
@@ -72,7 +75,7 @@ const Nav = () => {
 
               <li>
                 <Link href="/installation" onClick={() => setIsOpen(false)}>
-                  Installation
+                  {installedApps.length > 0 ? `Installed (${installedApps.length})` : "Installation"}
                 </Link>
               </li>
 

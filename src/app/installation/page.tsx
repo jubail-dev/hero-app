@@ -10,7 +10,7 @@ const InstallationPage = () => {
   const { installedApps } = useContext(AppContext);
 
   return (
-    <main className="min-h-screen bg-[#f7f7f8] py-10 md:py-16">
+    <main className="min-h-screen bg-[#f7f7f8] py-20 md:py-26">
       <div className="container mx-auto px-4">
 
         {/* Header */}

@@ -7,9 +7,9 @@
     "description": "Create graphics, edit photos and videos and design social media content.",
     "rating": 4.8,
     "downloads": "500M+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/52fzAlhKzDyZV8ttyQ_DHB-jOeLZAZEdKlgXnWL__YNMZuvsoRCshJX5mr_ArFZjK7rte4hqEJ4ucjtuKJK5=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/52fzAlhKzDyZV8ttyQ_DHB-jOeLZAZEdKlgXnWL__YNMZuvsoRCshJX5mr_ArFZjK7rte4hqEJ4ucjtuKJK5=w240-h480",
+    "size": "120 MB"
   },
   {
     "id": 2,
@@ -19,9 +19,9 @@
     "description": "Stream music, podcasts and playlists and discover new artists.",
     "rating": 4.5,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=w240-h480",
+    "size": "85 MB"
   },
   {
     "id": 3,
@@ -31,9 +31,9 @@
     "description": "Manage emails securely with powerful search, organization and Google AI features.",
     "rating": 4.1,
     "downloads": "10B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=w240-h480",
+    "size": "110 MB"
   },
   {
     "id": 4,
@@ -43,9 +43,9 @@
     "description": "A fast Google keyboard with voice typing, emoji search and multilingual support.",
     "rating": 4.5,
     "downloads": "10B+",
-    "price": 0,
     "platform": "Android",
-    "image": "https://play-lh.googleusercontent.com/J4vZ82VsZjnsRsI6ckQFXlO36_52QJerqG5-HfLgHffS34I4EfoAFfNdbf6s4wBAsUEf8DOJVEDEHh5tzWbrnA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/J4vZ82VsZjnsRsI6ckQFXlO36_52QJerqG5-HfLgHffS34I4EfoAFfNdbf6s4wBAsUEf8DOJVEDEHh5tzWbrnA=w240-h480",
+    "size": "75 MB"
   },
   {
     "id": 5,
@@ -55,9 +55,9 @@
     "description": "Browse the web quickly and securely with Google's Chrome browser.",
     "rating": 4.1,
     "downloads": "10B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/gbkzfC3R1fXcGR4Uag1uRSN_123Tpo_KxhVZFLFCatmthFuO1bzPczUomFtxI42YYEQMJeAaZuIFVrTF58gZYg=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/gbkzfC3R1fXcGR4Uag1uRSN_123Tpo_KxhVZFLFCatmthFuO1bzPczUomFtxI42YYEQMJeAaZuIFVrTF58gZYg=w240-h480",
+    "size": "95 MB"
   },
   {
     "id": 6,
@@ -67,9 +67,9 @@
     "description": "Connect with friends, communities and creators and discover new content.",
     "rating": 4.6,
     "downloads": "10B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480",
+    "size": "130 MB"
   },
   {
     "id": 7,
@@ -79,9 +79,9 @@
     "description": "Manage emails, calendars, contacts and files in one place.",
     "rating": 4.3,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/cQ6W3fn_i56tK1PDQZlKvpuggupXR-kGyzwCtF1vYw-wK9FS3YDVUTnpfEvpbWXXuqH6aJ1JRD_t5bfAyCD4=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/cQ6W3fn_i56tK1PDQZlKvpuggupXR-kGyzwCtF1vYw-wK9FS3YDVUTnpfEvpbWXXuqH6aJ1JRD_t5bfAyCD4=w240-h480",
+    "size": "105 MB"
   },
   {
     "id": 8,
@@ -91,9 +91,9 @@
     "description": "Join meetings, chat with teams, make calls and collaborate online.",
     "rating": 4.1,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/-Ajlo-aDBHtpCez_yILc8Kepv_kNhbTJPw1WyvXgkh4O-hvUN-YD_v_0FlJmgRbZ2vn1OmZCmCBOY23h4kJYEA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/-Ajlo-aDBHtpCez_yILc8Kepv_kNhbTJPw1WyvXgkh4O-hvUN-YD_v_0FlJmgRbZ2vn1OmZCmCBOY23h4kJYEA=w240-h480",
+    "size": "90 MB"
   },
   {
     "id": 9,
@@ -103,9 +103,9 @@
     "description": "Create notes, lists, reminders and organize your everyday thoughts.",
     "rating": 4.7,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/0AM0MfDO-MWUAKwg8vpbftm7GqvEW1JfLGHCgwsgIemF6hMW61XOVnnNDHCGeRMiYZtVaxV2M-AYoP_zMoJt6w=w240-h480",
+    "size": "70 MB"
   },
   {
     "id": 10,
@@ -115,9 +115,9 @@
     "description": "Translate text, conversations, images and speech across many languages.",
     "rating": 4.3,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/muIZuJn9awFB9XWa4g0aiqFxHbgAFVVfHVQrEmos46v29NfyZX5z1n1ZYBjH3Zvg80Dm90TI2ZdQZMr2cLMcCg=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/muIZuJn9awFB9XWa4g0aiqFxHbgAFVVfHVQrEmos46v29NfyZX5z1n1ZYBjH3Zvg80Dm90TI2ZdQZMr2cLMcCg=w240-h480",
+    "size": "80 MB"
   },
   {
     "id": 11,
@@ -127,9 +127,9 @@
     "description": "Store, organize and share your files securely from anywhere.",
     "rating": 4.3,
     "downloads": "10B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=w240-h480",
+    "size": "100 MB"
   },
   {
     "id": 12,
@@ -139,9 +139,9 @@
     "description": "Discover short videos, music, creators and live content from around the world.",
     "rating": 4.0,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg=w240-h480",
+    "size": "125 MB"
   },
   {
     "id": 13,
@@ -151,9 +151,9 @@
     "description": "Watch movies, TV shows, live events and games from around the world.",
     "rating": 4.4,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/fXVS45nukV1x9PYVSKHkCQK0QGCOishIvAOxIZS3sgRem8HS7l9l94_Ggj-WZPrTLePRdNYN4pp4SPAQL7oS0PU=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/fXVS45nukV1x9PYVSKHkCQK0QGCOishIvAOxIZS3sgRem8HS7l9l94_Ggj-WZPrTLePRdNYN4pp4SPAQL7oS0PU=w240-h480",
+    "size": "150 MB"
   },
   {
     "id": 14,
@@ -163,9 +163,9 @@
     "description": "Discover creative ideas, save inspiration and create personal collections.",
     "rating": 4.3,
     "downloads": "1B+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA=w240-h480",
+    "size": "115 MB"
   },
   {
     "id": 15,
@@ -175,9 +175,9 @@
     "description": "Learn languages through short, interactive lessons and practice exercises.",
     "rating": 4.7,
     "downloads": "500M+",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA=w240-h480",
+    "size": "95 MB"
   },
   {
     "id": 16,
@@ -187,9 +187,9 @@
     "description": "Discover and play fun games anytime and enjoy an exciting gaming experience.",
     "rating": 4.6,
     "downloads": "25.4M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/wBo__88ChG7plVjbbpbgrLMx0pqw6tqi1LCRqDihC_1O8vfmDNsXEnG-90kFA4HZuwwV7BA-88k1byqixJ6JCg=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/wBo__88ChG7plVjbbpbgrLMx0pqw6tqi1LCRqDihC_1O8vfmDNsXEnG-90kFA4HZuwwV7BA-88k1byqixJ6JCg=w240-h480",
+    "size": "60 MB"
   },
   {
     "id": 17,
@@ -199,9 +199,9 @@
     "description": "Practice programming concepts and improve your coding skills with interactive exercises.",
     "rating": 4.9,
     "downloads": "3.7M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/_V0jJ5ZLh_rbUy0ASDVcz-JM1TOQhf_wxxY3hgtZKlHZRrP06t0s1VO2EnOpV0c1rUurNTE7yLE8u_m1A-CK1EM=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/_V0jJ5ZLh_rbUy0ASDVcz-JM1TOQhf_wxxY3hgtZKlHZRrP06t0s1VO2EnOpV0c1rUurNTE7yLE8u_m1A-CK1EM=w240-h480",
+    "size": "55 MB"
   },
   {
     "id": 18,
@@ -211,9 +211,9 @@
     "description": "Relax, meditate and build healthy daily habits with guided sessions.",
     "rating": 4.8,
     "downloads": "7.1M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/WQhHPyXC6w0N06KjZevOVOY0OzSY9HRJ1DP_K1SN-kVZRDkYe7aITMOCjjeU_ohtdjVzjkLiUnumhmZZNMdc=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/WQhHPyXC6w0N06KjZevOVOY0OzSY9HRJ1DP_K1SN-kVZRDkYe7aITMOCjjeU_ohtdjVzjkLiUnumhmZZNMdc=w240-h480",
+    "size": "65 MB"
   },
   {
     "id": 19,
@@ -223,9 +223,9 @@
     "description": "Connect with friends and communicate through simple and fast messaging.",
     "rating": 4.4,
     "downloads": "18.6M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/GTuCVNgM3Ax-iPQfUBdpNK19VJmI8x0l-bHcV2R4W2LQzkGIUpj0oz5tqLmSwlMwnw7Xp47Wx1OZq-NpFS2ig7A=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/GTuCVNgM3Ax-iPQfUBdpNK19VJmI8x0l-bHcV2R4W2LQzkGIUpj0oz5tqLmSwlMwnw7Xp47Wx1OZq-NpFS2ig7A=w240-h480",
+    "size": "50 MB"
   },
   {
     "id": 20,
@@ -235,9 +235,9 @@
     "description": "Quickly scan documents, QR codes and important files from your phone.",
     "rating": 4.5,
     "downloads": "11.2M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/8MkoE_Bfa5BE95OcR_EYRflAvnREXEQJK6XeXnc9D-vt9V_uk0oKaZBlcJ5DZbUrDfeU36U19_x0fM5QxGmVBA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/8MkoE_Bfa5BE95OcR_EYRflAvnREXEQJK6XeXnc9D-vt9V_uk0oKaZBlcJ5DZbUrDfeU36U19_x0fM5QxGmVBA=w240-h480",
+    "size": "45 MB"
   },
   {
     "id": 21,
@@ -247,9 +247,9 @@
     "description": "Listen to music, discover new artists and create personalized playlists.",
     "rating": 4.7,
     "downloads": "20.1M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/iavGelXphjW2wL352bEc5eeFLG0ic5BwQqv-N0x6OAHDTC9CZunt113IY-sj0T_a2O8UBx2z4vzTwuLTdZMX=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/iavGelXphjW2wL352bEc5eeFLG0ic5BwQqv-N0x6OAHDTC9CZunt113IY-sj0T_a2O8UBx2z4vzTwuLTdZMX=w240-h480",
+    "size": "72 MB"
   },
   {
     "id": 22,
@@ -259,9 +259,9 @@
     "description": "Improve your concentration with smart focus sessions and productivity tools.",
     "rating": 4.8,
     "downloads": "4.8M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/RoO09ltS7nGbTJ9MVhQHWVxLh-DfVhn9rXByg-kVS4qws1BhVgbPMNhgM9emO83t9bmpa7jt15qgNHXyjX2BgQ=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/RoO09ltS7nGbTJ9MVhQHWVxLh-DfVhn9rXByg-kVS4qws1BhVgbPMNhgM9emO83t9bmpa7jt15qgNHXyjX2BgQ=w240-h480",
+    "size": "58 MB"
   },
   {
     "id": 23,
@@ -271,9 +271,9 @@
     "description": "Discover delicious recipes, save your favorite meals and plan your cooking.",
     "rating": 4.6,
     "downloads": "5.9M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/0j-5WT8PG7ZknAP_Yh0T4DpkbgitflLqqMqXtNlQn14f1Tp_db0PGh-EMIkBqSzpe-1gECie_f1QubpHpNhoqQ=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/0j-5WT8PG7ZknAP_Yh0T4DpkbgitflLqqMqXtNlQn14f1Tp_db0PGh-EMIkBqSzpe-1gECie_f1QubpHpNhoqQ=w240-h480",
+    "size": "68 MB"
   },
   {
     "id": 24,
@@ -283,9 +283,9 @@
     "description": "Plan trips, discover destinations and organize your complete travel itinerary.",
     "rating": 4.7,
     "downloads": "6.4M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/n5oSUWTalETQFB_D5tAwIoSscAbDRQ86B96nv3pHEYz0gNIu-S1qssGIwiwm3Dw0rRm-nc1OVESukMQv4ul9pA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/n5oSUWTalETQFB_D5tAwIoSscAbDRQ86B96nv3pHEYz0gNIu-S1qssGIwiwm3Dw0rRm-nc1OVESukMQv4ul9pA=w240-h480",
+    "size": "82 MB"
   },
   {
     "id": 25,
@@ -295,9 +295,9 @@
     "description": "Learn new skills through interactive lessons, courses and educational content.",
     "rating": 4.9,
     "downloads": "10.7M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/uwknNwb7lsOQW6fa5e_0DGJrjaGcM0HtDTX0SnNMCnnCDHD4ym5KlEkELmxuOiNyzWqiXd30f6DrM2Mhn4v0=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/uwknNwb7lsOQW6fa5e_0DGJrjaGcM0HtDTX0SnNMCnnCDHD4ym5KlEkELmxuOiNyzWqiXd30f6DrM2Mhn4v0=w240-h480",
+    "size": "62 MB"
   },
   {
     "id": 26,
@@ -307,9 +307,9 @@
     "description": "Edit your photos with creative filters, effects and simple editing tools.",
     "rating": 4.5,
     "downloads": "15.3M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/UOw-H9uskKmjuQR_x-IKp8XWuepbIODcNeY0a3Q6u14h3QTq2Z4EbXMaAVoAh_YUQ2qcVNHTdeiPIPdJLAz7MA=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/UOw-H9uskKmjuQR_x-IKp8XWuepbIODcNeY0a3Q6u14h3QTq2Z4EbXMaAVoAh_YUQ2qcVNHTdeiPIPdJLAz7MA=w240-h480",
+    "size": "88 MB"
   },
   {
     "id": 27,
@@ -319,9 +319,9 @@
     "description": "Manage your expenses, savings and monthly budget with an easy-to-use interface.",
     "rating": 4.8,
     "downloads": "7.5M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/G4JnJMxaSsWHGJ435wNnqKShw1jkgZF9jRKuGWFlaxLXXx_mBqPZUAbzpKDiaRJhgO4tQx6FdML-2YORa05ZOVg=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/G4JnJMxaSsWHGJ435wNnqKShw1jkgZF9jRKuGWFlaxLXXx_mBqPZUAbzpKDiaRJhgO4tQx6FdML-2YORa05ZOVg=w240-h480",
+    "size": "52 MB"
   },
   {
     "id": 28,
@@ -331,9 +331,9 @@
     "description": "Create, organize and manage your personal notes quickly and easily.",
     "rating": 4.6,
     "downloads": "8.2M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/VXkWi867KP9WOpdpVPYJrzIg2rBQwbKJCE3SKfZPUlYAnwXAOQDGdaU2TsCGB6DEOaY=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/VXkWi867KP9WOpdpVPYJrzIg2rBQwbKJCE3SKfZPUlYAnwXAOQDGdaU2TsCGB6DEOaY=w240-h480",
+    "size": "48 MB"
   },
   {
     "id": 29,
@@ -343,9 +343,9 @@
     "description": "Track your workouts, steps, calories and daily fitness goals in one place.",
     "rating": 4.7,
     "downloads": "9.8M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/C_8LMSK7qbDVAFpZm84AkrKHgDKG2sZjRblgHqgBagI_80_jg2QhCTyHxCFMZyAwUZJ8YsFA6U3e4huaXcv4=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/C_8LMSK7qbDVAFpZm84AkrKHgDKG2sZjRblgHqgBagI_80_jg2QhCTyHxCFMZyAwUZJ8YsFA6U3e4huaXcv4=w240-h480",
+    "size": "78 MB"
   },
   {
     "id": 30,
@@ -355,8 +355,8 @@
     "description": "A simple task management app to organize your daily work and stay productive.",
     "rating": 4.8,
     "downloads": "12.5M",
-    "price": 0,
     "platform": "Android & iOS",
-    "image": "https://play-lh.googleusercontent.com/tSoGwsCZbuPktt6-EWmxWKBc9mkaaPNqQOLUWDIFMgZdOX43REZawYY8d0lHMvW-9SZmjO4QTQ3yx_ETyD-iNQ=w240-h480"
+    "image": "https://play-lh.googleusercontent.com/tSoGwsCZbuPktt6-EWmxWKBc9mkaaPNqQOLUWDIFMgZdOX43REZawYY8d0lHMvW-9SZmjO4QTQ3yx_ETyD-iNQ=w240-h480",
+    "size": "57 MB"
   }
 ]

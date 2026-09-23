@@ -6,7 +6,7 @@ export interface TrendingAppsType {
   description: string;
   rating: number;
   downloads: string;
-  price: number;
+  size: number;
   platform: string;
   image: string;
 }

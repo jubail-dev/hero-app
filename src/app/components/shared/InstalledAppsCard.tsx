@@ -20,7 +20,7 @@ const InstalledAppsCard = ({
     );
 
     setInstalledApps(updatedInstalledApps);
-    toast.success(`${installedApp.name} uninstalled successfully!`, {
+    toast.warning(`${installedApp.name} uninstalled successfully!`, {
       position: "bottom-right",
       autoClose: 3000,
       hideProgressBar: false,
@@ -94,7 +94,7 @@ const InstalledAppsCard = ({
 
             {/* Price */}
             <span className="font-semibold text-[#9F62F2]">
-              {installedApp.price === 0 ? "Free" : `$${installedApp.price}`}
+              {installedApp.size === 0 ? "Free" : `${installedApp.size}`}
             </span>
           </div>
 

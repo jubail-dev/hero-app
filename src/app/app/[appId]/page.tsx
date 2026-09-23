@@ -4,7 +4,7 @@ import { TrendingAppsType } from "@/Types/trendingAppType";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import { FaArrowLeft, FaDownload, FaStar, FaWindows } from "react-icons/fa";
+import { FaArrowLeft, FaDownload, FaStar } from "react-icons/fa";
 
 const AppDetailPage = async ({
   params,
@@ -43,7 +43,6 @@ const AppDetailPage = async ({
   return (
     <main className="bg-[#f7f7f8] min-h-screen py-10 md:py-16">
       <div className="container mx-auto px-4">
-
         {/* Back Button */}
         <Link
           href="/app"
@@ -55,12 +54,9 @@ const AppDetailPage = async ({
 
         {/* Main Details Card */}
         <div className="max-w-6xl mx-auto bg-white rounded-3xl border border-gray-200 shadow-sm overflow-hidden">
-
           <div className="p-6 sm:p-8 md:p-12">
-
             {/* Top Section */}
             <div className="flex flex-col md:flex-row gap-8 md:gap-12">
-
               {/* App Image */}
               <div className="shrink-0 flex justify-center">
                 <div className="relative w-48 h-48 sm:w-56 sm:h-56">
@@ -75,7 +71,6 @@ const AppDetailPage = async ({
 
               {/* App Basic Info */}
               <div className="flex-1">
-
                 <div className="flex flex-wrap gap-2 mb-4">
                   <span className="bg-purple-100 text-[#9F62F2] px-4 py-1.5 rounded-full text-sm font-semibold">
                     {app.category}
@@ -99,37 +94,38 @@ const AppDetailPage = async ({
 
                 {/* Rating & Downloads */}
                 <div className="flex flex-wrap items-center gap-6 mb-7">
-
                   <div className="flex items-center gap-2">
                     <FaStar className="text-yellow-400" />
+
                     <span className="font-bold text-gray-800">
                       {app.rating}
                     </span>
+
                     <span className="text-gray-500">Rating</span>
                   </div>
 
                   <div className="flex items-center gap-2">
                     <FaDownload className="text-gray-400" />
+
                     <span className="font-bold text-gray-800">
                       {app.downloads}
                     </span>
+
                     <span className="text-gray-500">Downloads</span>
                   </div>
-
                 </div>
 
-                {/* Price */}
+                {/* Size */}
                 <div className="flex items-center gap-3 mb-7">
-                  <span className="text-gray-500">Price:</span>
+                  <span className="text-gray-500">Size:</span>
 
                   <span className="text-2xl font-bold text-[#9F62F2]">
-                    {app.price === 0 ? "Free" : `$${app.price}`}
+                    {app.size}
                   </span>
                 </div>
 
                 {/* Install Button */}
-                    <InstalledButton app={app}></InstalledButton>
-
+                <InstalledButton app={app} />
               </div>
             </div>
 
@@ -154,12 +150,12 @@ const AppDetailPage = async ({
               </h2>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-
                 {/* Developer */}
                 <div className="bg-gray-50 rounded-2xl p-5">
                   <p className="text-sm text-gray-500 mb-2">
                     Developer
                   </p>
+
                   <p className="font-bold text-gray-800">
                     {app.developer}
                   </p>
@@ -170,6 +166,7 @@ const AppDetailPage = async ({
                   <p className="text-sm text-gray-500 mb-2">
                     Category
                   </p>
+
                   <p className="font-bold text-gray-800">
                     {app.category}
                   </p>
@@ -180,6 +177,7 @@ const AppDetailPage = async ({
                   <p className="text-sm text-gray-500 mb-2">
                     Platform
                   </p>
+
                   <p className="font-bold text-gray-800">
                     {app.platform}
                   </p>
@@ -190,14 +188,13 @@ const AppDetailPage = async ({
                   <p className="text-sm text-gray-500 mb-2">
                     Downloads
                   </p>
+
                   <p className="font-bold text-gray-800">
                     {app.downloads}
                   </p>
                 </div>
-
               </div>
             </div>
-
           </div>
         </div>
       </div>

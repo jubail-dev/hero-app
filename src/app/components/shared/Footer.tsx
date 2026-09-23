@@ -141,7 +141,7 @@ const Footer = () => {
             </p>
 
             <Link
-              href="https://github.com/"
+              href="https://github.com/jubail-dev"
               target="_blank"
               className="mt-4 inline-flex items-center gap-2 rounded-lg bg-[#9F62F2] px-4 py-2 text-sm font-semibold text-white transition hover:bg-[#8B4DE5]"
             >

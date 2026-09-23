@@ -40,7 +40,7 @@ const Nav = () => {
 
           {/* Desktop Contribute Button */}
           <div className="hidden md:block bg-[#9F62F2] py-3 px-6 font-bold text-white rounded-2xl">
-            <Link href="https://github.com/" target="_blank">
+            <Link href="https://github.com/jubail-dev" target="_blank">
               <span>
                 <FaGithub className="inline-block mr-2" />
                 Contribute
